@@ -1,9 +1,1 @@
-test
-
-
-echo "# Superoffice" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/thethomas/Superoffice.git
-git push -u origin mastergho
+HEPP!
